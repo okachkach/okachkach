@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div align="center">
     <br clear="both">
-    <img src="https://badge.mediaplus.ma/darkblue/bahbibe"  alt="bahbibe's 42 stats"width="80%"/>
+    <img src="https://badge.mediaplus.ma/darkblue/okachkac"  alt="okachkac's 42 stats"width="80%"/>
     <br clear="both">
 </div>
 <!--
