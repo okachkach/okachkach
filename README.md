@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div align="center">
+    <br clear="both">
+    <img src="https://badge.mediaplus.ma/darkblue/bahbibe"  alt="bahbibe's 42 stats"width="80%"/>
+    <br clear="both">
+</div>
 <!--
 **okachkach/okachkach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
